@@ -11,10 +11,10 @@ setuptools.setup(
     description="Package to provide auth functionalities",
     long_description=long_description,
     url="https://github.com/GabrielInTheWorld/pip-test",
-    pacakages=setuptools.find_packages(),
+    packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent"
-    ]
+        "Operating System :: OS Independent",
+    ],
 )
